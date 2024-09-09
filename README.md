@@ -1,4 +1,7 @@
-## Hi there 👋
+## About me 👋
+
+Retired engineer, instructional designer, maker, brewer, mentor, metalworker, woodworker, radio amateur, inexperienced programmer, 
+gardener, auto mechanic, designer, roboticist, writer, reader and lots more. Life Is Good.
 
 <!--
 **Donoroto/Donoroto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
